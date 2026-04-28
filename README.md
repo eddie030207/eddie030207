@@ -1,6 +1,6 @@
 ### 안녕하세요, 박유현입니다. 
 
-> 부산대학교 정보컴퓨터공학부 재학 중인 개발자입니다.
+> 부산대학교 정보컴퓨터공학부 재학 중인 대학생입니다.
 
 <br>
 
@@ -38,7 +38,3 @@
 `2022.02 ~ 재학 중`
 
 <br>
-
-## 📊 BOJ (Problem Solving)
-
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=eddie030207)](https://solved.ac/eddie030207)
