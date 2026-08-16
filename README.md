@@ -19,8 +19,8 @@
 
 | Year | Award |
 |------|-------|
-| 2023 | 5th PATHHACK HACKERTHON — **대상** (창업진흥원상) |
-| 2022 | 2022 PNU SW+X 문제해결 경진대회 — **입상** |
+| 2023 | 5th PATHHACK HACKERTHON — 대상 (창업진흥원상) |
+| 2022 | 2022 PNU SW+X 문제해결 경진대회 — 입상 |
 
 <br>
 
